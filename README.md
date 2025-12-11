@@ -36,6 +36,6 @@ Passionate Computer Development Technician specializing in the **MERN Stack (Mon
 
 I am actively seeking opportunities to contribute my skills to a dynamic team.
 
-* **LinkedIn:** [http://linkedin.com/in/ibra him-alhou](http://linkedin.com/in/ibra him-alhou)
+* **LinkedIn:**(http://linkedin.com/in/ibrahim-alhou)
 * **Email:** alhoubrahim1@gmail.com
 * **Location:** Casablanca, Maroc
